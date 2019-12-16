@@ -7,14 +7,14 @@ There are two different approaches we tried:
 
 RL based approach and planning based approach.
 
-RL based approach can be found at examples/share_parameter_curiosity.py.
+RL based approach can be found at examples/A3C_PPO.py.
 
 I used A3C based PPO with curiosity. 
 
 Planning based approach can be found at examples/hardcode.
 
-The detailed explanation of the planning based approach can be found here (in Chinese):
+The detailed explanation of the planning based approach can be found here:
 
 https://docs.google.com/document/d/1NXmQ4CfMdhBz3RJymLzyqT5U4hKovAefiUd7orwX9vg/edit?usp=sharing
 
-The English version will be available soon.
+
