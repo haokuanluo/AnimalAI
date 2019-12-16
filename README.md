@@ -14,7 +14,7 @@ RL based approach can be found at examples/A3C_PPO.py and examples/model.py.
 
 I used A3C based PPO with curiosity. 
 
-Planning based approach can be found at examples/hardcode.
+Planning based approach can be found at examples/hardcode/main2.py and examples/hardcode/map.py.
 
 The detailed explanation of the planning based approach can be found here:
 
